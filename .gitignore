@@ -1,0 +1,11 @@
+# python
+.venv/
+__pycache__/
+*.pyc
+
+# csv
+goodbooks-10k-1.0/
+goodbooks-10k-1.0.zip
+
+# other folders
+Cours/
